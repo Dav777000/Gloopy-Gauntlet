@@ -7,17 +7,20 @@ TagManager:
   - Enemy
   - MazeGeo
   - Puntaje
+  - Entorno
+  - Pared
+  - Suelo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Entorno
+  - Pared
+  - Suelo
   - 
   - 
   - 
